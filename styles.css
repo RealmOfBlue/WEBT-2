@@ -1,17 +1,17 @@
 body {
-    background-color: #3764;
+    background-color:#ECD2FF;;
     
   }
   #container {
     background-color: #2871;
     width: 1200px;
     margin: 20px auto;
-    border: 12px solid black;
+    border: 75px #C67BF9;
     
   }
   
   header {
-    background-color: solid white;
+    background-color: #14141E;
     padding: 20px;
   }
   
@@ -20,52 +20,71 @@ body {
     margin: 0 auto;
     width: 40%;
   }
-  
+
+  h1 {
+ color: #ECD2FF;
+ font-family: cursive; 
+ font-size: 80px;
+ padding: 0px;
+  }
   nav {
-    background-color: indigo;
-    padding: 20px 0;
+    background-color: #5F30A2;
+    padding: 50px 0;
     text-align: center;
-    margin: 10px 0;
+    margin: 0px 0;
   }
   
   nav a {
     display: inline-block;
-    background-color: turquoise;
-    height: 23px;
-    width: 400px;
-    line-height: 386px;
-    font-size: 1.5em;
-    color: white;
+    background-color: #C67BF9;
+    height: 30px;
+    width: 120px;
+    border-bottom: 32px #14141E;
+    font-family: cursive;
+    line-height: normal;
+    font-size: 1.3em;
+    font-weight: bolder;
+    color: #14141E;
     text-decoration: none;
+    
     
   }
   
   nav a:hover {
-    background-color: dark blue;
+    background-color: #14141E;
     color: white;
     
   }
   
   main {
-    background-color: green;
+    background-color: #ECD2FF;
     width: 800px;
     margin: 0 auto;
     padding: 20px;
-    border: 3px solid black;
+    border: 38px #ECD2FF;
   }
   main img {
     display: block;
-    margin: 30px auto;
+    margin: 4px auto;
     width: 35%;
     background-color: #2222;
-    border-radius: 23px;
+    border-radius: 2px;
     padding: 70px;
   }
   
   footer {
-    background-color: #000;
-    color: #003;
+    background-color: #14141E;
+    color: #ECD2FF;
     padding: 50px;
     text-align: center;
   }
-  
+
+  nothing {
+  color: #ECD2FF;
+  color: #C67BF9;
+  color: #7640B6;
+  color: #5F30A2;
+  color: #14141E;
+  color: rgb(100, 100, 223);
+  color: #3F6FB5;
+  }
