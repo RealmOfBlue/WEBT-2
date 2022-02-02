@@ -1,5 +1,6 @@
 body {
     background-color: #ECD2FF;
+    font-family: 'Supermercado One', cursive;
     
   }
   #container {
@@ -13,6 +14,7 @@ body {
   header {
     background-color: #14141E;
     padding: 20px;
+    font-family: 'Supermercado One', cursive;
   }
   
   header img {
@@ -27,21 +29,29 @@ body {
     margin: 0px auto;
     padding: 20px;
     border: 38px color rgb(100, 100, 223);
-    font-family: cursive;
+
+  }
+
+  .description {
+
+    background-color: #ECD2FF;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  
   }
 
   h1 {
  color: #ECD2FF;
- font-family: cursive; 
  font-size: 90px;
  padding: 0px;
   }
 
   h2 {
     color: #14141E;
-    font-family: cursive; 
     font-size: 40px;
     padding: 0px;
+  }
+  h3 {
+    text-align: center;
   }
   nav {
     background-color: #5F30A2;
@@ -56,7 +66,6 @@ body {
     height: 30px;
     width: 120px;
     border-bottom: 32px #14141E;
-    font-family: cursive;
     line-height: normal;
     font-size: 1.3em;
     font-weight: bolder;
