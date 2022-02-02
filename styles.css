@@ -90,6 +90,17 @@ body {
     border-radius: 2px;
     padding: 70px;
   }
+
+  .background img {
+    display: block;
+    margin: 4px auto;
+    align-items: center;
+    width: 60%;
+    background-color: #2222;
+    border-radius: 2px;
+    padding: 70px;
+  }
+  
   
   footer {
     background-color: #14141E;
