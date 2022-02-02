@@ -1,5 +1,5 @@
 body {
-    background-color:#ECD2FF;;
+    background-color: #ECD2FF;
     
   }
   #container {
@@ -21,11 +21,27 @@ body {
     width: 40%;
   }
 
+  main {
+    background-color: #ECD2FF;
+    width: 1200px;
+    margin: 0px auto;
+    padding: 20px;
+    border: 38px color rgb(100, 100, 223);
+    font-family: cursive;
+  }
+
   h1 {
  color: #ECD2FF;
  font-family: cursive; 
- font-size: 80px;
+ font-size: 90px;
  padding: 0px;
+  }
+
+  h2 {
+    color: #14141E;
+    font-family: cursive; 
+    font-size: 40px;
+    padding: 0px;
   }
   nav {
     background-color: #5F30A2;
@@ -56,13 +72,7 @@ body {
     
   }
   
-  main {
-    background-color: #ECD2FF;
-    width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    border: 38px #ECD2FF;
-  }
+ 
   main img {
     display: block;
     margin: 4px auto;
@@ -79,6 +89,10 @@ body {
     text-align: center;
   }
 
+  .active {
+    background-color: #14141E;
+    color: white;
+  }
   nothing {
   color: #ECD2FF;
   color: #C67BF9;
