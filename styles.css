@@ -14,6 +14,7 @@ body {
   header {
     background-color: #14141E;
     padding: 20px;
+    text-align: center;
     font-family: 'Supermercado One', cursive;
   }
   
@@ -113,12 +114,4 @@ body {
     background-color: #14141E;
     color: white;
   }
-  nothing {
-  color: #ECD2FF;
-  color: #C67BF9;
-  color: #7640B6;
-  color: #5F30A2;
-  color: #14141E;
-  color: rgb(100, 100, 223);
-  color: #3F6FB5;
-  }
+  
